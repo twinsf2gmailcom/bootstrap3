@@ -1,0 +1,50 @@
+div {
+    font-size: 32px;
+}
+
+.container-fluid {
+    background-color: Yellow;
+    padding: 30px;
+}
+
+.header-row {
+    background-color: blue;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.nav-row {
+    background-color: green;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.content-box {
+    background-color: red;
+    height: 500px;
+    border: 2px solid black;
+}
+.asdie-box {
+    background-color: cyan;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.asdie-box {
+    background-color: cyan;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.promo-box {
+    background-color:  #FFA500;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.footer-box {
+    background-color:  black;
+    height: 100px;
+    border: 2px solid black;
+    color: white;
+}
