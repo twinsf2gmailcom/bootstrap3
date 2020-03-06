@@ -48,3 +48,19 @@ div {
     border: 2px solid black;
     color: white;
 }
+
+@media only screen and (min-width: 768px) {
+    .content-box {background: purple;}    
+}
+
+@media only screen and (min-width: 875px) {
+    .content-box {background: white;}    
+}
+
+@media only screen and (min-width: 768px) {
+    .asdie-box {background: white;}    
+}
+
+@media only screen and (min-width: 875px) {
+    .asdie-box {background: purple;}    
+}
